@@ -1,6 +1,6 @@
 public class Main {
     static String greet() {
-        return "Hello World";
+        return "Hi World";
     }
 
     public static void main(String[] args) {
